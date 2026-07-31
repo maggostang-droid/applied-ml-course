@@ -5,12 +5,17 @@
 > Git-Historie dort andere Namen als Committer auf, nicht meiner. Dieser
 > Fork ist meine persönliche Kopie zu Portfolio-Zwecken.
 > Offizielle Kursseite: [ki-campus.org/amalea](https://ki-campus.org/amalea?locale=de).
+> Mehr von mir: **[MARCO.OS](https://maggostang-droid.github.io/marco-os/)** —
+> mein interaktives Portfolio mit allen Projekten (u.a.
+> [SQL Copilot](https://github.com/maggostang-droid/sql-copilot),
+> [Review Risk Predictor](https://github.com/maggostang-droid/review-risk-predictor),
+> [Medical Coding Extractor](https://github.com/maggostang-droid/medical-coding-extractor)).
 
 # Willkommen
-Herzlich Wilkommen bei den praktischen Programmierübungen für den [Kurs AMALEA - AMALEA - Angewandte Machine Learning Algorithmen](https://learn.ki-campus.org/courses/amalea-kit2021). Hier finden Sie alle Aufgaben und weitere Hinweise für die praktischen Programmieraufgaben. 
+Herzlich Willkommen bei den praktischen Programmierübungen für den [Kurs AMALEA - AMALEA - Angewandte Machine Learning Algorithmen](https://learn.ki-campus.org/courses/amalea-kit2021). Hier finden Sie alle Aufgaben und weitere Hinweise für die praktischen Programmieraufgaben. 
 
-Die insgesamt sechs Kurswochen werden mit [Jupyter Notebooks](https://jupyter.org/) begeleitet, die Sie hier in den einzelnen Ordnern finden können.
-Als Verbindungglied von Text und Python-Code sind Notebooks, perfekt für einen Einstieg in Machine Learning geeignet. Die Bedienung ist simpel und [hier](Woche%201/1%20Erste%20Schritte.ipynb) nochmal im Detail beschrieben
+Die insgesamt sechs Kurswochen werden mit [Jupyter Notebooks](https://jupyter.org/) begleitet, die Sie hier in den einzelnen Ordnern finden können.
+Als Verbindungsglied von Text und Python-Code sind Notebooks perfekt für einen Einstieg in Machine Learning geeignet. Die Bedienung ist simpel und [hier](Woche%201/1%20Erste%20Schritte.ipynb) nochmal im Detail beschrieben.
 
 # Anwendungsmöglichkeiten
 
