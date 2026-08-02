@@ -1,15 +1,39 @@
-> **Hinweis zu diesem Fork:** Ich (Marco Stang) habe die Kursinhalte dieses
-> Kurses als Mitarbeiter des [ITIV](https://www.itiv.kit.edu/) am KIT
-> geschrieben und war Co-Dozent. Gehostet und versioniert wird das Original
-> vom [KI-Campus](https://github.com/KI-Campus/AMALEA) — daher tauchen in der
-> Git-Historie dort andere Namen als Committer auf, nicht meiner. Dieser
-> Fork ist meine persönliche Kopie zu Portfolio-Zwecken.
+# Applied ML Course (KIT)
+
+**Sechs Kurswochen praktisches Machine Learning für den KI-Campus: Jupyter-Notebooks von
+Pandas-Grundlagen bis zu CNNs, die Marco als Mitarbeiter des KIT mitgeschrieben und als
+Co-Dozent begleitet hat.**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-6_Kurswochen-a78bfa?style=flat-square&labelColor=0a0716)
+![Python](https://img.shields.io/badge/Python-scikit--learn_·_Keras-a78bfa?style=flat-square&labelColor=0a0716)
+![KI-Campus](https://img.shields.io/badge/KI--Campus-KIT_/_ITIV-a78bfa?style=flat-square&labelColor=0a0716)
+[![Kursseite](https://img.shields.io/badge/▶_Zum_Kurs-ki--campus.org-0a0716?style=flat-square&labelColor=a78bfa)](https://ki-campus.org/amalea?locale=de)
+
+> **Hinweis zu diesem Fork:** Ich (Marco Stang) habe die Kursinhalte als Mitarbeiter des
+> [ITIV](https://www.itiv.kit.edu/) am KIT geschrieben und war Co-Dozent. Gehostet und
+> versioniert wird das Original vom [KI-Campus](https://github.com/KI-Campus/AMALEA),
+> daher tauchen in der Git-Historie dort andere Namen als Committer auf, nicht meiner.
+> Dieser Fork ist meine persönliche Kopie zu Portfolio-Zwecken.
 > Offizielle Kursseite: [ki-campus.org/amalea](https://ki-campus.org/amalea?locale=de).
-> Mehr von mir: **[MARCO.OS](https://maggostang-droid.github.io/marco-os/)** —
-> mein interaktives Portfolio mit allen Projekten (u.a.
-> [SQL Copilot](https://github.com/maggostang-droid/sql-copilot),
-> [Review Risk Predictor](https://github.com/maggostang-droid/review-risk-predictor),
-> [Medical Coding Extractor](https://github.com/maggostang-droid/medical-coding-extractor)).
+
+<details>
+<summary><b>🇬🇧 English summary</b></summary>
+
+Practical programming exercises for the German-language KI-Campus course AMALEA (Applied
+Machine Learning Algorithms): six weeks of Jupyter notebooks covering pandas, classification,
+clustering, regression, CNNs and generative models. Marco co-authored the course material at
+KIT/ITIV and co-taught the course. This is a personal fork for portfolio purposes; the
+original is hosted by KI-Campus. Course content in German below.
+</details>
+
+---
+
+Die Notebooks lassen sich lokal, in Google Colab oder über MyBinder ausführen, die
+jeweiligen Links stehen in der Tabelle unten. Da es sich um Kursmaterial handelt und nicht
+um ein eigenes Softwareprojekt, gibt es hier bewusst keine Architektur, keine Metriken und
+keine Limitierungen im Sinne der übrigen Portfolio-Repos.
+
+---
 
 # Willkommen
 Herzlich Willkommen bei den praktischen Programmierübungen für den [Kurs AMALEA - AMALEA - Angewandte Machine Learning Algorithmen](https://learn.ki-campus.org/courses/amalea-kit2021). Hier finden Sie alle Aufgaben und weitere Hinweise für die praktischen Programmieraufgaben. 
@@ -195,3 +219,19 @@ Weitere Information finden sich [hier](Woche%201/0%20Installation%20und%20FAQ.md
         </tr>
     </tbody>
 </table>
+
+---
+
+```console
+marco@portfolio:~$ open marco-os --project amalea
+```
+
+**[▸ Dieses Projekt in MARCO.OS öffnen](https://maggostang-droid.github.io/marco-os/#amalea)**,
+dem interaktiven Portfolio von Marco Stang.
+
+**Schwesterprojekte:**
+[SQL Copilot](https://github.com/maggostang-droid/sql-copilot) (LangGraph-Agent mit Guardrails) ·
+[Review Risk Predictor](https://github.com/maggostang-droid/review-risk-predictor) (erklärbares ML, React/FastAPI) ·
+[Medical Coding Extractor](https://github.com/maggostang-droid/medical-coding-extractor) (LoRA-Finetuning gegen RAG)
+
+<sub>Marco Stang · Dr.-Ing. · [LinkedIn](https://www.linkedin.com/in/marco-stang) · stang.marco@t-online.de · Kursinhalte: Lizenz des KI-Campus-Originals</sub>
