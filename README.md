@@ -15,11 +15,11 @@ Co-Dozent begleitet hat.**
 > daher tauchen in der Git-Historie dort andere Namen als Committer auf, nicht meiner.
 > Dieser Fork ist meine persönliche Kopie zu Portfolio-Zwecken.
 > Offizielle Kursseite: [ki-campus.org/amalea](https://ki-campus.org/amalea?locale=de).
-> Mehr von mir: **[MARCO.OS](https://maggostang-droid.github.io/marco-os/)** —
+> Mehr von mir: **[MARCO.OS](https://marco-stang.github.io/)** —
 > mein interaktives Portfolio mit allen Projekten (u.a.
-> [SQL Copilot](https://github.com/maggostang-droid/sql-copilot),
-> [Review Risk Predictor](https://github.com/maggostang-droid/review-risk-predictor),
-> [Medical Coding Extractor](https://github.com/maggostang-droid/medical-coding-extractor)).
+> [SQL Copilot](https://github.com/marco-stang/sql-copilot),
+> [Review Risk Predictor](https://github.com/marco-stang/review-risk-predictor),
+> [Medical Coding Extractor](https://github.com/marco-stang/medical-coding-extractor)).
 
 <details>
 <summary><b>🇬🇧 English summary</b></summary>
@@ -231,12 +231,12 @@ Weitere Information finden sich [hier](Woche%201/0%20Installation%20und%20FAQ.md
 marco@portfolio:~$ open marco-os --project amalea
 ```
 
-**[▸ Dieses Projekt in MARCO.OS öffnen](https://maggostang-droid.github.io/marco-os/#amalea)**,
+**[▸ Dieses Projekt in MARCO.OS öffnen](https://marco-stang.github.io/#amalea)**,
 dem interaktiven Portfolio von Marco Stang.
 
 **Schwesterprojekte:**
-[SQL Copilot](https://github.com/maggostang-droid/sql-copilot) (LangGraph-Agent mit Guardrails) ·
-[Review Risk Predictor](https://github.com/maggostang-droid/review-risk-predictor) (erklärbares ML, React/FastAPI) ·
-[Medical Coding Extractor](https://github.com/maggostang-droid/medical-coding-extractor) (LoRA-Finetuning gegen RAG)
+[SQL Copilot](https://github.com/marco-stang/sql-copilot) (LangGraph-Agent mit Guardrails) ·
+[Review Risk Predictor](https://github.com/marco-stang/review-risk-predictor) (erklärbares ML, React/FastAPI) ·
+[Medical Coding Extractor](https://github.com/marco-stang/medical-coding-extractor) (LoRA-Finetuning gegen RAG)
 
 <sub>Marco Stang · Dr.-Ing. · [LinkedIn](https://www.linkedin.com/in/marco-stang) · stang.marco@t-online.de · Kursinhalte: Lizenz des KI-Campus-Originals</sub>

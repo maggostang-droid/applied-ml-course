@@ -34,7 +34,7 @@ klarer Beitrag ("mitgeschrieben", "Co-Dozent"), klare Grenze ("mit einem Team",
   (z. B. `Update 4 Künstlicher Ghost-Writer.ipynb`, `Update 3 Wie geht's
   eigentlich weiter.ipynb`, mehrere Woche-4/5-Notebooks).
 - `git remote -v` zeigt `origin` = Marcos eigener Fork
-  (`maggostang-droid/AMALEA`), `upstream` = das offizielle Repo
+  (`marco-stang/AMALEA`), `upstream` = das offizielle Repo
   (`KI-Campus/AMALEA`). Der Kommentar oben im README bestätigt das nochmal
   explizit: Original wird vom KI-Campus gehostet/versioniert, in dessen
   Historie tauchen andere Namen als Committer auf als in diesem Fork.
