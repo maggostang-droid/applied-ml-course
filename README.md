@@ -15,6 +15,11 @@ Co-Dozent begleitet hat.**
 > daher tauchen in der Git-Historie dort andere Namen als Committer auf, nicht meiner.
 > Dieser Fork ist meine persönliche Kopie zu Portfolio-Zwecken.
 > Offizielle Kursseite: [ki-campus.org/amalea](https://ki-campus.org/amalea?locale=de).
+> Mehr von mir: **[MARCO.OS](https://maggostang-droid.github.io/marco-os/)** —
+> mein interaktives Portfolio mit allen Projekten (u.a.
+> [SQL Copilot](https://github.com/maggostang-droid/sql-copilot),
+> [Review Risk Predictor](https://github.com/maggostang-droid/review-risk-predictor),
+> [Medical Coding Extractor](https://github.com/maggostang-droid/medical-coding-extractor)).
 
 <details>
 <summary><b>🇬🇧 English summary</b></summary>
